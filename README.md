@@ -1,5 +1,5 @@
 # ToDO with material ui
-# <a target="_blank" href="https://main--melodic-cat-d3786f.netlify.app/">Demo</a>
+# <a href="https://main--melodic-cat-d3786f.netlify.app/"  target="_blank">Demo</a>
 
 # Getting Started with Create React App
 
